@@ -2,5 +2,5 @@ language: c
 install: make dep
 compiler: gcc
 scripts: make && make test
-sudo:required
+sudo: required
 
